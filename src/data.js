@@ -63,13 +63,5 @@ const menu = [
     img: "./images/item-8.jpeg",
     desc: `Semper quis lectus nulla at volutpat diam ut venenatis. Amet cursus sit amet dictum sit amet justo donec.  `,
   },
-  {
-    id: 9,
-    title: "quarantine buddy",
-    category: "shakes",
-    price: 16.99,
-    img: "./images/item-9.jpeg",
-    desc: `Lorem mollis aliquam ut porttitor leo a diam sollicitudin. Adipiscing elit duis tristique sollicitudin. Elementum nibh tellus molestie nunc non blandit massa. `,
-  },
 ];
 export default menu;
